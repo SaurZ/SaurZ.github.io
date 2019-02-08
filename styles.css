@@ -440,7 +440,7 @@ header li{
     
     #map{
         margin:0;
-        width:cover;
+        width:auto;
         height:400px;
     }
     
