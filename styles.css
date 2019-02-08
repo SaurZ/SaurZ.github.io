@@ -405,7 +405,7 @@ header li{
     }
     
     .slider img{
-        height:161px;
+        height:auto;
         width:auto;
     }
     
